@@ -6,3 +6,4 @@
 Ini文件中可以设置多种参数。例如线程池与进程池的大小，爬取频率，周期等。
 
 该框架参考了笑虎大腿的Pspider。Pspider结构更为简洁，只是没有提供多进程实现。
+https://github.com/xianhu/PSpider
